@@ -14,7 +14,6 @@ edge       Edge Browser History Tool
           -x, --no-porn         Show none of the porn links.        
           -c, --clean           Remove only porn from the history.  👍
           -?, --where           Return the database directory.      
-          -w, --remove-website  Remove any website with the address 
           -d, --data            Report my web history               
           delete                Delete the web history for good
           show                  Show the web history
